@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado en alcanzar mi meta de convertirme en un exitoso Ingeniero de Software 💻🚀. Mi pasión por la programación y el desarrollo de software me ha llevado a elegir esta carrera. Con determinación y dedicación, estoy trabajando arduamente para completar mi carrera y adquirir experiencia práctica en el campo. Mi objetivo a largo plazo es convertirme en un destacado desarrollador y programador, contribuyendo con soluciones tecnológicas avanzadas y estableciéndome como un referente en la industria. 💪🎯
