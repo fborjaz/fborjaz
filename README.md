@@ -75,7 +75,7 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fborjaz/fborjaz/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://github.com/fborjaz/fborjaz/blob/output/snake.svg)
 
 ###
 
