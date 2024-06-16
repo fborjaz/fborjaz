@@ -12,8 +12,8 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 # 📊 GitHub Stats:
 
 <div align="center">
-  ![]<img src="https://github-readme-stats.vercel.app/api?username=fborjaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ![]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fborjaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fborjaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fborjaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -22,8 +22,15 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fborjaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fborjaz/fborjaz/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=fborjaz&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
