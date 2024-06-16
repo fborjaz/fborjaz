@@ -11,9 +11,11 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
   <a href="http://wa.me/593982117699" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+  
   <a href="https://www.instagram.com/frank_borja19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  
   <a href="https://www.linkedin.com/in/frank-borja-004187168/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -65,13 +67,13 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 ###
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fborjaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+##
 
 <br clear="both">
 
@@ -79,7 +81,7 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 ###
 
-###
+##
 
 <div align="center">
   <a href="https://open.spotify.com/user/p9doannsrqljvq5v3lu7epfrg">
@@ -90,7 +92,7 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 ###
 
 ---
-###
+##
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/fborjaz/count.svg?"  />
