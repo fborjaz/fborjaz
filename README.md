@@ -79,6 +79,16 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 ###
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/p9doannsrqljvq5v3lu7epfrg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p9doannsrqljvq5v3lu7epfrg&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ---
 ###
 
@@ -88,13 +98,7 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 ###
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fborjaz/count.svg?"  />
-</div>
-
-###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
