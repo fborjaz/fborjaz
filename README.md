@@ -88,6 +88,14 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fborjaz/count.svg?"  />
+</div>
+
+###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
