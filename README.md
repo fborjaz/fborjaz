@@ -16,7 +16,7 @@ Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado e
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
-  <a href="https://www.linkedin.com/in/frank-borja-004187168/" target="_blank">
+  <a href="https://www.linkedin.com/in/fborjaz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
