@@ -23,6 +23,18 @@
 - 🗄️ Bases de datos: **MySQL**, **PostgreSQL** y **SQL Server**
 - 🎯 Meta: convertirme en un ingeniero de software sólido, con productos que la gente use a diario
 
+<details>
+<summary>🇺🇸 <b>English</b></summary>
+<br />
+
+- 🎓 Software Engineering student based in Ecuador
+- 💼 I build software for real businesses: **point-of-sale systems, ERPs and SaaS platforms**
+- 🖥️ Backend with **PHP (CodeIgniter / Laravel)** and **C# / .NET** · Frontend with **TypeScript + React / Next.js**
+- 🗄️ Databases: **MySQL**, **PostgreSQL** and **SQL Server**
+- 🎯 Goal: become a solid software engineer shipping products people use every day
+
+</details>
+
 ## 🔭 En lo que trabajo ahora
 
 | Proyecto | Descripción | Stack |
