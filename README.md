@@ -43,12 +43,17 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fborjaz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=es" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://streak-stats.demolab.com?user=fborjaz&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=3" height="165" alt="Racha de contribuciones" />
+  <img src="https://raw.githubusercontent.com/fborjaz/fborjaz/main/profile-summary-card-output/dracula/0-profile-details.svg" width="800" alt="Detalles del perfil" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fborjaz&layout=compact&langs_count=8&theme=dracula&hide_border=false&locale=es&card_width=460" alt="Lenguajes más usados" />
+  <img src="https://raw.githubusercontent.com/fborjaz/fborjaz/main/profile-summary-card-output/dracula/3-stats.svg" height="180" alt="Estadísticas de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=fborjaz&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=3" height="180" alt="Racha de contribuciones" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fborjaz/fborjaz/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="180" alt="Lenguajes con más commits" />
+  <img src="https://raw.githubusercontent.com/fborjaz/fborjaz/main/profile-summary-card-output/dracula/1-repos-per-language.svg" height="180" alt="Repositorios por lenguaje" />
 </div>
 
 <br />
