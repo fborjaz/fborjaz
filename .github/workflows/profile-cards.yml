@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
 jobs:
   build:
     permissions:
