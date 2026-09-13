@@ -1,121 +1,68 @@
-# Hi there 👋
-
-# 💫 About Me:
-Como estudiante universitario, mi nombre es Frank Borja 😊, y estoy enfocado en alcanzar mi meta de convertirme en un exitoso Ingeniero de Software 💻🚀. Mi pasión por la programación y el desarrollo de software me ha llevado a elegir esta carrera. Con determinación y dedicación, estoy trabajando arduamente para completar mi carrera y adquirir experiencia práctica en el campo. Mi objetivo a largo plazo es convertirme en un destacado desarrollador y programador, contribuyendo con soluciones tecnológicas avanzadas y estableciéndome como un referente en la industria. 💪🎯
-
-
-## 🌐 Socials:
-###
-
 <div align="center">
-  <a href="http://wa.me/593982117699" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/frank_borja19/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/fborjaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Frank+Borja;Software+Engineer+en+formaci%C3%B3n;Full+Stack+%C2%B7+PHP+%C2%B7+.NET+%C2%B7+TypeScript" alt="Frank Borja" />
+
+<br />
+
+<a href="https://portfolio-cv-gamma-sandy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/fborjaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="http://wa.me/593982117699" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.instagram.com/frank_borja19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=fborjaz&style=flat-square&color=BD93F9&label=Visitas" alt="Visitas al perfil" />
+
 </div>
 
-###
+## 🧑‍💻 Sobre mí
 
-# 💻 Tech Stack:
+- 🎓 Estudiante de **Ingeniería de Software** en Ecuador 🇪🇨
+- 💼 Construyo software para negocios reales: **puntos de venta, ERP y SaaS**
+- 🖥️ Backend en **PHP (CodeIgniter / Laravel)** y **C# / .NET** · Frontend en **TypeScript + React / Next.js**
+- 🗄️ Bases de datos: **MySQL**, **PostgreSQL** y **SQL Server**
+- 🎯 Meta: convertirme en un ingeniero de software sólido, con productos que la gente use a diario
 
-###
+## 🔭 En lo que trabajo ahora
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **OmniPOS** | Punto de venta web + app de escritorio, con agente de hardware para gaveta de caja vía WebSocket | PHP · CodeIgniter · C# · .NET · MySQL · SQL Server |
+| **Dental SaaS** | Plataforma SaaS para gestión de clínicas dentales | PHP · Laravel · MySQL |
+| **Votaciones Estudiantiles** | Sistema de votaciones para instituciones educativas | Next.js · Supabase · PostgreSQL |
+| [**Portfolio CV**](https://github.com/fborjaz/portfolio-cv) | Portafolio bilingüe ES/EN con chatbot IA y dark mode | Next.js 14 · Tailwind · OpenAI |
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,cs,dotnet,python,django,nodejs,ts,js,react,nextjs&perline=12" alt="Lenguajes y frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,html,css,mysql,postgres,supabase,git,github,githubactions,vercel,vscode&perline=12" alt="Herramientas y bases de datos" />
 </div>
 
-###
-
-# 📊 GitHub Stats:
-
-###
+## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fborjaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fborjaz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fborjaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fborjaz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=fborjaz&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=3" height="165" alt="Racha de contribuciones" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fborjaz&layout=compact&langs_count=8&theme=dracula&hide_border=false&locale=es&card_width=460" alt="Lenguajes más usados" />
+</div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fborjaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-##
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fborjaz/fborjaz/output/snake.svg" alt="Snake animation" />
-
-###
-
-##
+<br />
 
 <div align="center">
-  <a href="https://open.spotify.com/user/p9doannsrqljvq5v3lu7epfrg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p9doannsrqljvq5v3lu7epfrg&count=5" alt="Spotify recently played"  />
+  <img src="https://raw.githubusercontent.com/fborjaz/fborjaz/output/snake.svg" alt="Animación de contribuciones" />
+</div>
+
+<details>
+<summary>🎧 Lo que escucho mientras programo</summary>
+<br />
+<div align="center">
+  <a href="https://open.spotify.com/user/p9doannsrqljvq5v3lu7epfrg" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p9doannsrqljvq5v3lu7epfrg&count=5" alt="Spotify: reproducido recientemente" />
   </a>
 </div>
-
-###
-
----
-##
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fborjaz/count.svg?"  />
-</div>
-
-###
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**fborjaz/fborjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
